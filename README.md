@@ -1,4 +1,4 @@
-CODTECHTask2 Name:HARIPRIYA K T Company:CODTECH IT SOLUTIONS ID:CTO8DQR Domain:Data Science Duration:December12th,2024 to January 12th,2025 Mentor:Neela Santhosh
+
 Project Description: Image Classification 
 Objective:
 The goal of this project is to build a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 different classes. Each class represents a distinct object category, such as airplanes, birds, or cars.
